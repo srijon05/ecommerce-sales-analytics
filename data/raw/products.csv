@@ -1,0 +1,801 @@
+product_id,product_name,category,brand,cost_price,selling_price
+1,Scholastic Velit Boo1,Books,Scholastic,4247.5,5409.01
+2,Sony Quos Ele2,Electronics,Sony,11544.77,15424.76
+3,OnePlus Sint Ele3,Electronics,OnePlus,6224.2,9768.29
+4,Lakme Repellat Bea4,Beauty,Lakme,16291.75,27466.85
+5,Amul Quia Gro5,Groceries,Amul,10471.83,12540.07
+6,ITC Ducimus Gro6,Groceries,ITC,6877.98,12290.97
+7,HarperCollins Sunt Boo7,Books,HarperCollins,14926.65,24051.75
+8,Penguin Praesentium Boo8,Books,Penguin,233.58,347.29
+9,Sony Quia Ele9,Electronics,Sony,986.34,1499.24
+10,Levis A Fas10,Fashion,Levis,23023.23,40969.2
+11,Prestige Distinctio Hom11,Home & Kitchen,Prestige,13536.79,19599.01
+12,LOreal Adipisci Bea12,Beauty,LOreal,23628.18,37517.92
+13,Mamaearth Itaque Bea13,Beauty,Mamaearth,1669.24,2424.94
+14,Lakme Voluptas Bea14,Beauty,Lakme,6044.11,8796.43
+15,OnePlus Quod Ele15,Electronics,OnePlus,11413.87,17444.89
+16,Allen Solly Nihil Fas16,Fashion,Allen Solly,8951.42,11249.93
+17,ITC Reiciendis Gro17,Groceries,ITC,12617.8,21319.44
+18,Penguin Laboriosam Boo18,Books,Penguin,16617.11,22764.43
+19,Adidas A Spo19,Sports,Adidas,23391.3,40769.51
+20,Prestige Perspiciatis Hom20,Home & Kitchen,Prestige,5273.24,6199.33
+21,Nike Earum Spo21,Sports,Nike,18545.65,31304.07
+22,HarperCollins Ea Boo22,Books,HarperCollins,24198.22,41824.05
+23,Scholastic Corrupti Boo23,Books,Scholastic,15033.34,22467.84
+24,ITC Inventore Gro24,Groceries,ITC,744.63,975.71
+25,Nivea Nisi Bea25,Beauty,Nivea,11517.39,17950.17
+26,Puma Explicabo Fas26,Fashion,Puma,13953.43,22781.95
+27,Scholastic Voluptatem Boo27,Books,Scholastic,7030.18,10666.32
+28,Sony Fugit Ele28,Electronics,Sony,2249.15,3191.28
+29,OnePlus Repudiandae Ele29,Electronics,OnePlus,18766.51,30039.75
+30,Decathlon Eligendi Spo30,Sports,Decathlon,24766.54,32955.08
+31,Samsung Sunt Ele31,Electronics,Samsung,12479.82,17024.91
+32,H&M Natus Fas32,Fashion,H&M,11043.05,18850.68
+33,Lakme Velit Bea33,Beauty,Lakme,17121.02,29509.56
+34,Samsung Sed Ele34,Electronics,Samsung,5127.6,8807.6
+35,Milton Recusandae Hom35,Home & Kitchen,Milton,1541.07,2662.34
+36,Penguin Recusandae Boo36,Books,Penguin,8260.39,11188.55
+37,Levis Magnam Fas37,Fashion,Levis,12826.61,22593.41
+38,Nivea Consequatur Bea38,Beauty,Nivea,1242.15,1712.86
+39,Nivea Modi Bea39,Beauty,Nivea,21421.47,30149.34
+40,Nivea Optio Bea40,Beauty,Nivea,5018.96,7157.62
+41,H&M Soluta Fas41,Fashion,H&M,9669.53,16873.53
+42,Penguin Eius Boo42,Books,Penguin,19060.26,28177.26
+43,Dell Exercitationem Ele43,Electronics,Dell,24709.85,35889.34
+44,Zara Itaque Fas44,Fashion,Zara,1503.03,1984.72
+45,Nivea Aperiam Bea45,Beauty,Nivea,10929.96,13684.16
+46,Allen Solly Labore Fas46,Fashion,Allen Solly,23691.75,39054.71
+47,Puma Magnam Fas47,Fashion,Puma,6743.77,10345.1
+48,HarperCollins Optio Boo48,Books,HarperCollins,18050.16,31801.34
+49,Allen Solly Excepturi Fas49,Fashion,Allen Solly,22046.8,32736.74
+50,Mamaearth Quibusdam Bea50,Beauty,Mamaearth,19377.58,29364.67
+51,Nivea Iusto Bea51,Beauty,Nivea,13839.96,16948.17
+52,H&M Possimus Fas52,Fashion,H&M,3197.13,4777.14
+53,Nivea Eum Bea53,Beauty,Nivea,6758.1,7864.23
+54,Scholastic Non Boo54,Books,Scholastic,18084.84,21179.45
+55,Milton Ratione Hom55,Home & Kitchen,Milton,14902.16,22360.33
+56,Prestige Ad Hom56,Home & Kitchen,Prestige,24221.93,35478.79
+57,Penguin Voluptas Boo57,Books,Penguin,1636.86,2469.36
+58,Nestle Autem Gro58,Groceries,Nestle,21035.35,37820.55
+59,Samsung Corporis Ele59,Electronics,Samsung,10787.06,14650.92
+60,ITC Recusandae Gro60,Groceries,ITC,22671.0,28889.82
+61,Prestige Deserunt Hom61,Home & Kitchen,Prestige,15404.95,21778.2
+62,Tata Eveniet Gro62,Groceries,Tata,1075.01,1478.93
+63,Mamaearth Neque Bea63,Beauty,Mamaearth,6667.45,10640.98
+64,Prestige Aperiam Hom64,Home & Kitchen,Prestige,23722.32,-31413.82
+65,Allen Solly Enim Fas65,Fashion,Allen Solly,20296.08,24070.82
+66,Levis Omnis Fas66,Fashion,Levis,13476.12,16115.52
+67,Tata Neque Gro67,Groceries,Tata,23354.12,-38490.59
+68,LOreal Quibusdam Bea68,Beauty,LOreal,16465.85,27753.73
+69,Nike Aut Spo69,Sports,Nike,16205.62,28842.99
+70,Allen Solly Corporis Fas70,Fashion,Allen Solly,17863.25,31279.05
+71,HarperCollins Vero Boo71,Books,HarperCollins,12952.44,15880.88
+72,Scholastic Quo Boo72,Books,Scholastic,13228.03,16303.11
+73,H&M Nulla Fas73,Fashion,H&M,14832.71,21709.46
+74,Apple Deleniti Ele74,Electronics,Apple,15583.26,18022.52
+75,Amul Est Gro75,Groceries,Amul,4911.27,7216.45
+76,Penguin Error Boo76,Books,Penguin,23765.06,33255.54
+77,Lakme Esse Bea77,Beauty,Lakme,10638.08,17175.74
+78,Samsung Maxime Ele78,Electronics,Samsung,15114.63,20318.63
+79,IKEA Consequatur Hom79,Home & Kitchen,IKEA,10299.87,13302.33
+80,Puma Amet Fas80,Fashion,Puma,24152.24,29825.9
+81,Decathlon Facere Spo81,Sports,Decathlon,9327.33,10883.09
+82,HarperCollins Accusamus Boo82,Books,HarperCollins,5583.4,9253.4
+83,ITC Repudiandae Gro83,Groceries,ITC,5069.32,6093.53
+84,Allen Solly Nemo Fas84,Fashion,Allen Solly,11887.61,13747.78
+85,Amul Cumque Gro85,Groceries,Amul,2164.92,3626.15
+86,Amul Hic Gro86,Groceries,Amul,19298.26,33672.38
+87,Dell Temporibus Ele87,Electronics,Dell,21370.16,34065.41
+88,Puma Repudiandae Fas88,Fashion,Puma,1355.7,2248.91
+89,HarperCollins Odio Boo89,Books,HarperCollins,21145.49,35300.35
+90,Nivea Eos Bea90,Beauty,Nivea,12736.55,16575.17
+91,Philips Consectetur Hom91,Home & Kitchen,Philips,21140.98,34304.53
+92,Yonex Laboriosam Spo92,Sports,Yonex,24519.99,30679.42
+93,Penguin Ex Boo93,Books,Penguin,5680.33,7314.38
+94,LOreal Similique Bea94,Beauty,LOreal,19823.87,25205.85
+95,Nivea Cumque Bea95,Beauty,Nivea,1713.16,3082.09
+96,LOreal Consectetur Bea96,Beauty,LOreal,669.19,1132.88
+97,Penguin Explicabo Boo97,Books,Penguin,9165.9,15554.99
+98,LOreal Sapiente Bea98,Beauty,LOreal,13887.78,24110.02
+99,Allen Solly Quidem Fas99,Fashion,Allen Solly,23158.52,26769.25
+100,Adidas Suscipit Spo100,Sports,Adidas,1931.53,2535.58
+101,Tata Excepturi Gro101,Groceries,Tata,16749.42,28932.56
+102,Prestige Aperiam Hom102,Home & Kitchen,Prestige,11525.55,17801.59
+103,Lakme Pariatur Bea103,Beauty,Lakme,4753.07,7952.97
+104,Samsung Voluptas Ele104,Electronics,Samsung,24184.84,32034.98
+105,H&M Harum Fas105,Fashion,H&M,12395.91,14949.16
+106,HarperCollins Quis Boo106,Books,HarperCollins,14000.46,20676.01
+107,Philips Doloremque Hom107,Home & Kitchen,Philips,3653.69,5251.61
+108,OnePlus Unde Ele108,Electronics,OnePlus,8385.91,12488.21
+109,Scholastic Voluptatem Boo109,Books,Scholastic,14662.08,16942.36
+110,Prestige Ab Hom110,Home & Kitchen,Prestige,19037.1,30715.59
+111,Nestle Porro Gro111,Groceries,Nestle,9188.85,10883.35
+112,Yonex Esse Spo112,Sports,Yonex,18885.57,33443.77
+113,Sony Neque Ele113,Electronics,Sony,6041.78,8218.58
+114,Lakme Iure Bea114,Beauty,Lakme,4636.13,7070.14
+115,Penguin Consequuntur Boo115,Books,Penguin,3913.29,5406.31
+116,Adidas Commodi Spo116,Sports,Adidas,17440.47,26406.19
+117,Dell Provident Ele117,Electronics,Dell,9692.24,13793.63
+118,Levis Reprehenderit Fas118,Fashion,Levis,14074.67,16239.52
+119,Yonex Eum Spo119,Sports,Yonex,2008.82,3460.83
+120,Nivea Repellat Bea120,Beauty,Nivea,1993.08,3207.71
+121,Decathlon Hic Spo121,Sports,Decathlon,23004.95,30503.28
+122,Allen Solly A Fas122,Fashion,Allen Solly,9293.76,14124.65
+123,Decathlon Nobis Spo123,Sports,Decathlon,22048.64,38854.97
+124,Tata Voluptatem Gro124,Groceries,Tata,18502.1,22319.14
+125,H&M Laudantium Fas125,Fashion,H&M,16745.4,23723.16
+126,Sony Magnam Ele126,Electronics,Sony,11793.99,13939.86
+127,Tata Odio Gro127,Groceries,Tata,4817.0,8014.69
+128,Adidas Quos Spo128,Sports,Adidas,11376.27,15313.37
+129,Scholastic Voluptatem Boo129,Books,Scholastic,9631.28,16424.8
+130,Mamaearth Doloremque Bea130,Beauty,Mamaearth,18737.53,24864.8
+131,Decathlon Alias Spo131,Sports,Decathlon,2981.67,3917.31
+132,Penguin Consequatur Boo132,Books,Penguin,23022.87,35179.7
+133,Milton Sunt Hom133,Home & Kitchen,Milton,13360.33,20543.59
+134,Tata Rem Gro134,Groceries,Tata,9182.41,15377.04
+135,Penguin Adipisci Boo135,Books,Penguin,13105.99,16066.45
+136,Milton Vel Hom136,Home & Kitchen,Milton,3270.17,4901.85
+137,LOreal Harum Bea137,Beauty,LOreal,23417.43,31623.57
+138,Tata Earum Gro138,Groceries,Tata,21745.05,35806.75
+139,Scholastic Doloribus Boo139,Books,Scholastic,6232.92,7315.09
+140,Nivea Dolore Bea140,Beauty,Nivea,2591.09,4206.69
+141,Philips Eveniet Hom141,Home & Kitchen,Philips,5031.76,7000.82
+142,Puma Aperiam Fas142,Fashion,Puma,12567.39,20378.71
+143,LOreal Dolorum Bea143,Beauty,LOreal,2875.12,4065.82
+144,LOreal Eius Bea144,Beauty,LOreal,12152.57,18247.54
+145,Puma Eos Fas145,Fashion,Puma,20468.1,25822.37
+146,Amul Eius Gro146,Groceries,Amul,20205.39,32336.12
+147,Dell Delectus Ele147,Electronics,Dell,13918.98,22335.69
+148,Mamaearth Impedit Bea148,Beauty,Mamaearth,10329.84,12808.57
+149,Nivea Officia Bea149,Beauty,Nivea,16660.84,24841.93
+150,Nike Assumenda Spo150,Sports,Nike,16002.4,21918.47
+151,Scholastic Ut Boo151,Books,Scholastic,22676.32,34735.37
+152,HarperCollins Odio Boo152,Books,HarperCollins,2180.79,3145.51
+153,LOreal Et Bea153,Beauty,LOreal,18921.08,31526.07
+154,Lakme Sit Bea154,Beauty,Lakme,12390.2,21454.7
+155,ITC Deleniti Gro155,Groceries,ITC,6728.33,9533.3
+156,Yonex Aliquid Spo156,Sports,Yonex,22469.99,38930.76
+157,Penguin Cumque Boo157,Books,Penguin,17158.53,29312.56
+158,Amul Enim Gro158,Groceries,Amul,2264.89,3878.05
+159,Philips Maiores Hom159,Home & Kitchen,Philips,8049.47,10189.95
+160,Nivea Sunt Bea160,Beauty,Nivea,6022.28,8561.75
+161,Nestle In Gro161,Groceries,Nestle,6317.24,8581.14
+162,Scholastic Vitae Boo162,Books,Scholastic,3417.71,4588.33
+163,OnePlus Non Ele163,Electronics,OnePlus,14328.48,20592.96
+164,Penguin Dolor Boo164,Books,Penguin,8700.63,14227.22
+165,Scholastic Voluptas Boo165,Books,Scholastic,22343.07,36685.38
+166,Amul At Gro166,Groceries,Amul,8333.42,13615.87
+167,Prestige Dolore Hom167,Home & Kitchen,Prestige,3841.91,4743.63
+168,HarperCollins Pariatur Boo168,Books,HarperCollins,8673.39,14527.98
+169,Sony Minus Ele169,Electronics,Sony,6196.39,7380.61
+170,ITC Ab Gro170,Groceries,ITC,3336.15,5698.76
+171,Mamaearth Dolores Bea171,Beauty,Mamaearth,15862.89,20853.05
+172,HarperCollins Minima Boo172,Books,HarperCollins,13904.63,20758.59
+173,Nike Aliquid Spo173,Sports,Nike,16403.13,21349.85
+174,Apple Quibusdam Ele174,Electronics,Apple,21616.85,29206.3
+175,Levis Doloribus Fas175,Fashion,Levis,17368.58,20155.91
+176,Adidas Vitae Spo176,Sports,Adidas,9347.8,12886.98
+177,Nestle Nihil Gro177,Groceries,Nestle,13609.94,16294.89
+178,Nestle Corrupti Gro178,Groceries,Nestle,19763.78,25526.06
+179,Milton Blanditiis Hom179,Home & Kitchen,Milton,16942.09,28328.66
+180,Puma Dolore Fas180,Fashion,Puma,14068.83,22954.34
+181,LOreal Error Bea181,Beauty,LOreal,16563.41,22875.63
+182,Yonex Aut Spo182,Sports,Yonex,20231.02,27141.04
+183,H&M Dolor Fas183,Fashion,H&M,14301.76,23376.35
+184,Milton Nesciunt Hom184,Home & Kitchen,Milton,9504.95,12801.26
+185,H&M Corrupti Fas185,Fashion,H&M,11510.68,19357.24
+186,Penguin Nostrum Boo186,Books,Penguin,23251.55,34977.4
+187,Scholastic Eum Boo187,Books,Scholastic,16553.58,28755.68
+188,Scholastic Voluptates Boo188,Books,Scholastic,2508.74,3263.5
+189,Nestle Doloremque Gro189,Groceries,Nestle,17737.06,29894.64
+190,ITC Fugiat Gro190,Groceries,ITC,21432.87,30430.81
+191,Amul Quasi Gro191,Groceries,Amul,2279.03,3269.4
+192,Amul Quos Gro192,Groceries,Amul,5806.83,7776.96
+193,Nike Veritatis Spo193,Sports,Nike,19318.08,23164.17
+194,IKEA Quia Hom194,Home & Kitchen,IKEA,20698.15,29556.65
+195,Levis Rerum Fas195,Fashion,Levis,14921.8,18029.62
+196,Sony Reprehenderit Ele196,Electronics,Sony,8467.11,10230.86
+197,Puma Iure Fas197,Fashion,Puma,24040.52,40261.14
+198,Nestle Odio Gro198,Groceries,Nestle,11517.84,14919.54
+199,HarperCollins Dolore Boo199,Books,HarperCollins,23339.7,32068.46
+200,Levis Saepe Fas200,Fashion,Levis,4066.56,6165.14
+201,Lakme Quibusdam Bea201,Beauty,Lakme,23597.16,27195.48
+202,Adidas Ut Spo202,Sports,Adidas,5991.21,10544.48
+203,Lakme Reiciendis Bea203,Beauty,Lakme,4318.59,5284.26
+204,Amul Esse Gro204,Groceries,Amul,14276.17,24415.08
+205,Milton Occaecati Hom205,Home & Kitchen,Milton,11953.89,21474.77
+206,Samsung Nisi Ele206,Electronics,Samsung,16995.33,20362.93
+207,Tata Doloribus Gro207,Groceries,Tata,24821.16,35125.2
+208,Yonex Similique Spo208,Sports,Yonex,7220.69,10922.17
+209,Milton Numquam Hom209,Home & Kitchen,Milton,7642.47,9218.33
+210,OnePlus Hic Ele210,Electronics,OnePlus,85.64,123.51
+211,Decathlon Ipsam Spo211,Sports,Decathlon,20929.74,31855.17
+212,Mamaearth Facilis Bea212,Beauty,Mamaearth,24980.22,33384.82
+213,Dell Sequi Ele213,Electronics,Dell,7047.35,8836.23
+214,IKEA Error Hom214,Home & Kitchen,IKEA,4143.39,5532.96
+215,Nestle Adipisci Gro215,Groceries,Nestle,19831.36,34481.62
+216,Nestle Eius Gro216,Groceries,Nestle,24378.42,31716.04
+217,Zara Necessitatibus Fas217,Fashion,Zara,22038.37,30046.36
+218,Levis Impedit Fas218,Fashion,Levis,2865.37,4915.59
+219,Scholastic Minus Boo219,Books,Scholastic,15920.84,20013.69
+220,Dell Quidem Ele220,Electronics,Dell,10774.29,14402.18
+221,Tata Omnis Gro221,Groceries,Tata,18433.02,26630.56
+222,Tata Consectetur Gro222,Groceries,Tata,24732.53,29322.5
+223,LOreal Repellendus Bea223,Beauty,LOreal,8907.63,13033.96
+224,Zara Cum Fas224,Fashion,Zara,12603.18,17081.82
+225,Puma Voluptate Fas225,Fashion,Puma,18244.54,31354.8
+226,Nestle Debitis Gro226,Groceries,Nestle,23471.05,39274.36
+227,Adidas Asperiores Spo227,Sports,Adidas,21271.98,32075.05
+228,Prestige Eum Hom228,Home & Kitchen,Prestige,20655.91,27829.24
+229,Sony Voluptates Ele229,Electronics,Sony,9992.05,13549.15
+230,Allen Solly Quibusdam Fas230,Fashion,Allen Solly,11711.31,15641.94
+231,Prestige Culpa Hom231,Home & Kitchen,Prestige,24042.21,32537.5
+232,Milton Ratione Hom232,Home & Kitchen,Milton,2496.21,3725.42
+233,Nivea Perferendis Bea233,Beauty,Nivea,1474.62,1801.77
+234,Milton Nam Hom234,Home & Kitchen,Milton,5523.77,8019.56
+235,Zara Totam Fas235,Fashion,Zara,10859.61,18133.37
+236,H&M Repellendus Fas236,Fashion,H&M,18499.89,26401.32
+237,Philips Deleniti Hom237,Home & Kitchen,Philips,8375.92,11355.27
+238,ITC Asperiores Gro238,Groceries,ITC,19361.18,22920.68
+239,Nivea Quas Bea239,Beauty,Nivea,369.9,616.66
+240,Allen Solly Ducimus Fas240,Fashion,Allen Solly,11954.8,14765.05
+241,Mamaearth Quidem Bea241,Beauty,Mamaearth,5927.37,10409.22
+242,Apple Eveniet Ele242,Electronics,Apple,21494.6,34635.54
+243,Decathlon Debitis Spo243,Sports,Decathlon,12081.52,17979.84
+244,Amul Excepturi Gro244,Groceries,Amul,24382.35,43345.74
+245,Scholastic Architecto Boo245,Books,Scholastic,5420.96,9092.13
+246,Tata Quaerat Gro246,Groceries,Tata,4971.2,6406.88
+247,Prestige Sequi Hom247,Home & Kitchen,Prestige,16918.52,23910.11
+248,Sony Quisquam Ele248,Electronics,Sony,23292.03,28133.43
+249,Allen Solly Aut Fas249,Fashion,Allen Solly,12812.56,22384.04
+250,Nivea Excepturi Bea250,Beauty,Nivea,22607.64,28298.98
+251,Scholastic Quidem Boo251,Books,Scholastic,9197.61,14278.64
+252,Yonex Quod Spo252,Sports,Yonex,4026.9,7164.72
+253,Nike Blanditiis Spo253,Sports,Nike,22873.0,28786.07
+254,Adidas Labore Spo254,Sports,Adidas,3072.83,3704.34
+255,ITC Qui Gro255,Groceries,ITC,22740.62,29013.74
+256,Sony Quidem Ele256,Electronics,Sony,10436.31,15046.59
+257,Philips Consectetur Hom257,Home & Kitchen,Philips,14995.33,17943.83
+258,Puma Facilis Fas258,Fashion,Puma,5707.63,10019.57
+259,Decathlon Facilis Spo259,Sports,Decathlon,22714.83,37657.53
+260,Lakme Iusto Bea260,Beauty,Lakme,534.06,727.69
+261,Levis Quo Fas261,Fashion,Levis,15717.57,20886.66
+262,Yonex Deleniti Spo262,Sports,Yonex,22744.19,35527.07
+263,Nivea Dolorum Bea263,Beauty,Nivea,1844.07,3210.26
+264,IKEA Aperiam Hom264,Home & Kitchen,IKEA,23946.28,28747.82
+265,ITC Nobis Gro265,Groceries,ITC,13332.39,17961.22
+266,Yonex Porro Spo266,Sports,Yonex,9851.33,12479.4
+267,Milton Enim Hom267,Home & Kitchen,Milton,14472.9,25655.92
+268,Amul Deserunt Gro268,Groceries,Amul,12601.66,15171.07
+269,Allen Solly Est Fas269,Fashion,Allen Solly,15519.03,21278.84
+270,HarperCollins Voluptatem Boo270,Books,HarperCollins,21405.33,30664.01
+271,Decathlon Tempora Spo271,Sports,Decathlon,4861.35,6194.42
+272,Scholastic Commodi Boo272,Books,Scholastic,19230.67,25435.1
+273,Milton Quas Hom273,Home & Kitchen,Milton,19192.47,24639.81
+274,Scholastic Dignissimos Boo274,Books,Scholastic,8076.07,11731.03
+275,Mamaearth Soluta Bea275,Beauty,Mamaearth,23582.74,41402.46
+276,Nestle Numquam Gro276,Groceries,Nestle,5211.45,7206.61
+277,Nestle Aut Gro277,Groceries,Nestle,3777.51,5596.34
+278,Puma Nisi Fas278,Fashion,Puma,11541.53,20030.26
+279,Levis Tempora Fas279,Fashion,Levis,23253.63,32539.24
+280,Nike Quisquam Spo280,Sports,Nike,12318.86,21343.08
+281,OnePlus Beatae Ele281,Electronics,OnePlus,20177.36,23251.92
+282,Prestige Iste Hom282,Home & Kitchen,Prestige,8035.49,11443.77
+283,Zara Officia Fas283,Fashion,Zara,5781.42,7398.61
+284,Apple Doloremque Ele284,Electronics,Apple,992.72,1556.77
+285,Levis Vero Fas285,Fashion,Levis,6599.63,7814.13
+286,Philips Harum Hom286,Home & Kitchen,Philips,5812.93,9714.82
+287,Adidas Labore Spo287,Sports,Adidas,21294.66,31175.23
+288,Samsung Aliquam Ele288,Electronics,Samsung,10430.96,18625.57
+289,Zara Aliquid Fas289,Fashion,Zara,5054.09,6519.69
+290,Nestle Accusamus Gro290,Groceries,Nestle,7332.09,9255.24
+291,Nestle Alias Gro291,Groceries,Nestle,9515.17,16575.83
+292,Samsung Vel Ele292,Electronics,Samsung,15402.93,21837.74
+293,Sony Voluptas Ele293,Electronics,Sony,23363.55,27604.08
+294,IKEA Alias Hom294,Home & Kitchen,IKEA,5296.39,8039.01
+295,Dell Aliquam Ele295,Electronics,Dell,15408.04,18115.42
+296,Allen Solly Blanditiis Fas296,Fashion,Allen Solly,10105.82,15885.84
+297,Adidas Iste Spo297,Sports,Adidas,17466.86,27331.98
+298,Penguin Doloremque Boo298,Books,Penguin,8048.05,9744.48
+299,Milton Tempore Hom299,Home & Kitchen,Milton,10706.46,13208.46
+300,IKEA Reprehenderit Hom300,Home & Kitchen,IKEA,23693.21,34565.1
+301,LOreal Beatae Bea301,Beauty,LOreal,7965.62,13128.12
+302,Allen Solly Blanditiis Fas302,Fashion,Allen Solly,12473.82,16858.64
+303,Amul Voluptas Gro303,Groceries,Amul,20308.6,34801.81
+304,LOreal Eaque Bea304,Beauty,LOreal,16841.55,19881.9
+305,HarperCollins Perspiciatis Boo305,Books,HarperCollins,14179.76,23341.89
+306,HarperCollins Consequuntur Boo306,Books,HarperCollins,3455.75,4487.76
+307,HarperCollins Nulla Boo307,Books,HarperCollins,22068.25,25667.12
+308,Zara Quidem Fas308,Fashion,Zara,18830.54,27454.04
+309,Levis Tenetur Fas309,Fashion,Levis,11196.97,12928.16
+310,Amul Minima Gro310,Groceries,Amul,20493.99,28361.35
+311,Milton Aspernatur Hom311,Home & Kitchen,Milton,13542.1,21535.26
+312,Zara Suscipit Fas312,Fashion,Zara,17580.61,31142.06
+313,Adidas Sed Spo313,Sports,Adidas,13306.93,18760.35
+314,Amul Alias Gro314,Groceries,Amul,23844.91,37373.84
+315,Scholastic Distinctio Boo315,Books,Scholastic,7488.85,9227.77
+316,Tata Libero Gro316,Groceries,Tata,21071.73,29193.15
+317,Penguin Ipsam Boo317,Books,Penguin,16528.72,24066.32
+318,Zara Modi Fas318,Fashion,Zara,5013.3,7725.98
+319,H&M Veniam Fas319,Fashion,H&M,1564.04,2218.86
+320,Adidas Cum Spo320,Sports,Adidas,13688.04,19620.85
+321,Tata Quae Gro321,Groceries,Tata,18729.37,31618.01
+322,HarperCollins Tenetur Boo322,Books,HarperCollins,19292.51,22673.11
+323,Nike Illum Spo323,Sports,Nike,4893.51,7334.37
+324,OnePlus Illum Ele324,Electronics,OnePlus,23373.81,39565.36
+325,Penguin Facilis Boo325,Books,Penguin,21071.24,28384.76
+326,Dell Dolore Ele326,Electronics,Dell,10764.73,15673.0
+327,Allen Solly Blanditiis Fas327,Fashion,Allen Solly,3976.42,4653.18
+328,IKEA Quisquam Hom328,Home & Kitchen,IKEA,23675.23,30930.82
+329,H&M Dignissimos Fas329,Fashion,H&M,6036.73,7269.41
+330,Scholastic Sapiente Boo330,Books,Scholastic,23216.27,35447.28
+331,Mamaearth Velit Bea331,Beauty,Mamaearth,16692.57,29087.22
+332,Dell Repellat Ele332,Electronics,Dell,8673.22,13478.01
+333,Allen Solly Quis Fas333,Fashion,Allen Solly,1018.05,1294.35
+334,Nivea Perferendis Bea334,Beauty,Nivea,20789.58,34269.53
+335,HarperCollins Illo Boo335,Books,HarperCollins,8798.54,12273.32
+336,H&M Porro Fas336,Fashion,H&M,13362.18,15368.6
+337,IKEA Quasi Hom337,Home & Kitchen,IKEA,6069.05,7800.86
+338,Mamaearth Autem Bea338,Beauty,Mamaearth,6299.55,10544.43
+339,Milton Distinctio Hom339,Home & Kitchen,Milton,7027.86,8956.93
+340,Decathlon Doloribus Spo340,Sports,Decathlon,12631.37,21633.36
+341,Lakme Illo Bea341,Beauty,Lakme,6071.68,7292.38
+342,Lakme Provident Bea342,Beauty,Lakme,8942.3,14629.37
+343,Tata Soluta Gro343,Groceries,Tata,13789.73,23179.37
+344,Philips Animi Hom344,Home & Kitchen,Philips,23991.82,39951.91
+345,Nike Ipsam Spo345,Sports,Nike,15114.89,22229.05
+346,Yonex Modi Spo346,Sports,Yonex,1049.72,1878.8
+347,Lakme Optio Bea347,Beauty,Lakme,9617.85,-12012.2
+348,Penguin Animi Boo348,Books,Penguin,16684.39,22270.11
+349,Nivea Quae Bea349,Beauty,Nivea,14665.17,22458.23
+350,Adidas Nostrum Spo350,Sports,Adidas,11170.96,18917.76
+351,HarperCollins Omnis Boo351,Books,HarperCollins,6660.93,9602.47
+352,OnePlus Alias Ele352,Electronics,OnePlus,13465.42,21293.62
+353,Zara Aperiam Fas353,Fashion,Zara,19610.1,27584.05
+354,Lakme Sapiente Bea354,Beauty,Lakme,16168.87,20177.09
+355,Allen Solly Architecto Fas355,Fashion,Allen Solly,23319.57,32623.8
+356,Amul A Gro356,Groceries,Amul,18251.56,21230.61
+357,Adidas Ut Spo357,Sports,Adidas,5169.42,7581.49
+358,Tata Facilis Gro358,Groceries,Tata,21962.4,32783.62
+359,Philips Exercitationem Hom359,Home & Kitchen,Philips,23250.27,34049.28
+360,H&M Minus Fas360,Fashion,H&M,12286.7,15086.05
+361,Adidas Laborum Spo361,Sports,Adidas,20076.27,26310.5
+362,HarperCollins Tempora Boo362,Books,HarperCollins,22495.33,39187.67
+363,Zara Laboriosam Fas363,Fashion,Zara,23585.59,35098.89
+364,HarperCollins Commodi Boo364,Books,HarperCollins,16943.49,28059.02
+365,Nestle Magni Gro365,Groceries,Nestle,3318.81,5113.03
+366,Scholastic Quas Boo366,Books,Scholastic,905.73,1334.52
+367,Sony Harum Ele367,Electronics,Sony,3913.32,4965.61
+368,Puma Quia Fas368,Fashion,Puma,9157.94,13105.78
+369,Adidas Distinctio Spo369,Sports,Adidas,15598.15,18692.49
+370,H&M Necessitatibus Fas370,Fashion,H&M,12617.11,16007.41
+371,Milton Minus Hom371,Home & Kitchen,Milton,14370.68,22480.24
+372,Penguin Recusandae Boo372,Books,Penguin,13939.9,22720.53
+373,Amul Cupiditate Gro373,Groceries,Amul,8423.45,13876.11
+374,Milton Ex Hom374,Home & Kitchen,Milton,10847.54,15888.61
+375,IKEA Neque Hom375,Home & Kitchen,IKEA,16220.15,18846.73
+376,OnePlus Distinctio Ele376,Electronics,OnePlus,16367.16,25403.15
+377,Scholastic Fugiat Boo377,Books,Scholastic,7780.69,9381.69
+378,LOreal Quaerat Bea378,Beauty,LOreal,2318.84,4058.19
+379,H&M Eum Fas379,Fashion,H&M,17247.52,21259.58
+380,ITC Iste Gro380,Groceries,ITC,8950.24,13739.64
+381,Philips Maxime Hom381,Home & Kitchen,Philips,20897.51,24625.2
+382,Dell Ut Ele382,Electronics,Dell,5954.0,10290.52
+383,Milton Architecto Hom383,Home & Kitchen,Milton,278.68,356.96
+384,Nestle Maiores Gro384,Groceries,Nestle,23977.65,37134.46
+385,Yonex Ipsa Spo385,Sports,Yonex,6578.7,7851.97
+386,Nike Dolores Spo386,Sports,Nike,753.37,986.22
+387,Allen Solly Repellat Fas387,Fashion,Allen Solly,22043.07,31308.74
+388,Yonex Minus Spo388,Sports,Yonex,18022.32,31482.93
+389,Samsung Animi Ele389,Electronics,Samsung,10230.61,13037.18
+390,Adidas Quod Spo390,Sports,Adidas,12952.09,22539.93
+391,Nivea Animi Bea391,Beauty,Nivea,20119.14,23997.9
+392,Zara Sunt Fas392,Fashion,Zara,17329.69,26371.17
+393,Philips Optio Hom393,Home & Kitchen,Philips,22691.21,27901.41
+394,Scholastic Asperiores Boo394,Books,Scholastic,13374.2,23025.7
+395,LOreal Nemo Bea395,Beauty,LOreal,10280.09,15042.82
+396,Penguin Eos Boo396,Books,Penguin,1807.99,2406.06
+397,Allen Solly Excepturi Fas397,Fashion,Allen Solly,8146.44,14373.01
+398,HarperCollins Neque Boo398,Books,HarperCollins,7102.55,10295.61
+399,Puma Sed Fas399,Fashion,Puma,16799.05,21089.85
+400,Adidas Sint Spo400,Sports,Adidas,12186.74,19865.0
+401,H&M Quos Fas401,Fashion,H&M,21678.04,33754.19
+402,Apple Officia Ele402,Electronics,Apple,16742.89,20628.65
+403,Levis Sit Fas403,Fashion,Levis,23647.12,29231.93
+404,Nivea Libero Bea404,Beauty,Nivea,19378.09,25620.37
+405,Adidas Ad Spo405,Sports,Adidas,23343.15,37768.6
+406,Zara Soluta Fas406,Fashion,Zara,18857.65,24371.41
+407,Sony Tempora Ele407,Electronics,Sony,11103.85,17228.5
+408,ITC Qui Gro408,Groceries,ITC,19260.84,23451.49
+409,Yonex Ea Spo409,Sports,Yonex,24061.01,41592.91
+410,Yonex Debitis Spo410,Sports,Yonex,6795.2,11448.51
+411,Philips At Hom411,Home & Kitchen,Philips,12982.18,18826.42
+412,Scholastic Assumenda Boo412,Books,Scholastic,7895.13,12060.83
+413,Scholastic Fugiat Boo413,Books,Scholastic,18260.73,25877.4
+414,Milton Architecto Hom414,Home & Kitchen,Milton,15749.02,25270.14
+415,H&M Cupiditate Fas415,Fashion,H&M,17792.49,21062.36
+416,Scholastic Mollitia Boo416,Books,Scholastic,21500.71,31130.12
+417,Nivea Explicabo Bea417,Beauty,Nivea,6597.28,8623.61
+418,Tata Quia Gro418,Groceries,Tata,12101.2,20892.0
+419,Zara Cupiditate Fas419,Fashion,Zara,9489.77,15537.81
+420,Milton Quos Hom420,Home & Kitchen,Milton,2465.63,3598.43
+421,Allen Solly Quia Fas421,Fashion,Allen Solly,24792.57,40927.19
+422,Penguin Ab Boo422,Books,Penguin,5302.69,7826.44
+423,Nestle Facilis Gro423,Groceries,Nestle,5878.94,8325.84
+424,OnePlus Sunt Ele424,Electronics,OnePlus,19513.1,32221.91
+425,Sony Facilis Ele425,Electronics,Sony,5741.1,10043.74
+426,Amul Temporibus Gro426,Groceries,Amul,14834.58,20723.18
+427,Puma Dolorum Fas427,Fashion,Puma,12573.29,19404.31
+428,Tata Quo Gro428,Groceries,Tata,14019.27,20554.54
+429,Samsung Pariatur Ele429,Electronics,Samsung,12648.07,15995.61
+430,Scholastic Praesentium Boo430,Books,Scholastic,20327.69,30535.12
+431,Puma Expedita Fas431,Fashion,Puma,3320.44,5472.09
+432,HarperCollins Quas Boo432,Books,HarperCollins,23314.48,41167.53
+433,Penguin Earum Boo433,Books,Penguin,9256.99,11460.95
+434,Sony Minus Ele434,Electronics,Sony,12984.07,15882.06
+435,Allen Solly Eaque Fas435,Fashion,Allen Solly,23352.99,29642.58
+436,Philips Quia Hom436,Home & Kitchen,Philips,6356.51,8990.1
+437,Dell Tenetur Ele437,Electronics,Dell,9609.95,16015.28
+438,Amul At Gro438,Groceries,Amul,11435.1,14419.65
+439,Dell Natus Ele439,Electronics,Dell,6716.89,9947.2
+440,LOreal Fugiat Bea440,Beauty,LOreal,3728.98,5770.88
+441,Samsung Exercitationem Ele441,Electronics,Samsung,14165.4,22870.84
+442,Scholastic Dolor Boo442,Books,Scholastic,23445.73,40865.1
+443,Nivea Veniam Bea443,Beauty,Nivea,23654.59,30965.4
+444,Nike At Spo444,Sports,Nike,3332.55,4487.21
+445,Allen Solly Dicta Fas445,Fashion,Allen Solly,22382.38,39881.7
+446,Samsung Voluptatem Ele446,Electronics,Samsung,21490.16,26250.48
+447,Penguin Natus Boo447,Books,Penguin,23688.33,33760.2
+448,Samsung Sit Ele448,Electronics,Samsung,282.29,405.81
+449,Zara Veritatis Fas449,Fashion,Zara,1199.43,1803.37
+450,ITC Impedit Gro450,Groceries,ITC,8496.92,12386.24
+451,LOreal Dolores Bea451,Beauty,LOreal,15348.6,26318.56
+452,Amul Quasi Gro452,Groceries,Amul,16564.44,23722.46
+453,Apple Rem Ele453,Electronics,Apple,20494.72,35632.7
+454,Nike Tenetur Spo454,Sports,Nike,3038.01,4544.12
+455,Apple Velit Ele455,Electronics,Apple,7148.57,8439.53
+456,LOreal Vel Bea456,Beauty,LOreal,16730.24,28622.11
+457,Samsung Inventore Ele457,Electronics,Samsung,4114.42,6904.28
+458,Zara Nemo Fas458,Fashion,Zara,21342.22,37227.69
+459,Dell In Ele459,Electronics,Dell,6668.86,11587.61
+460,Penguin Dolore Boo460,Books,Penguin,8050.54,12148.42
+461,Lakme Adipisci Bea461,Beauty,Lakme,1310.16,1544.05
+462,HarperCollins Exercitationem Boo462,Books,HarperCollins,18023.31,25933.96
+463,Scholastic Nihil Boo463,Books,Scholastic,6444.49,8208.79
+464,Yonex Delectus Spo464,Sports,Yonex,16765.34,19284.52
+465,H&M Maxime Fas465,Fashion,H&M,20156.98,24218.86
+466,Adidas Quia Spo466,Sports,Adidas,4827.67,6763.82
+467,Sony Non Ele467,Electronics,Sony,12147.23,16772.25
+468,Adidas Error Spo468,Sports,Adidas,8051.77,14304.34
+469,LOreal Corporis Bea469,Beauty,LOreal,16057.41,18710.6
+470,Philips Ipsa Hom470,Home & Kitchen,Philips,10782.89,18533.15
+471,Nike Explicabo Spo471,Sports,Nike,7571.33,9172.38
+472,Penguin Blanditiis Boo472,Books,Penguin,18971.7,29290.58
+473,Mamaearth Officiis Bea473,Beauty,Mamaearth,14279.3,16918.47
+474,Tata Animi Gro474,Groceries,Tata,3555.45,5527.51
+475,Levis Molestias Fas475,Fashion,Levis,5235.2,7735.77
+476,Zara Illum Fas476,Fashion,Zara,13644.8,18205.98
+477,Sony Suscipit Ele477,Electronics,Sony,23713.21,40255.58
+478,Dell Molestias Ele478,Electronics,Dell,18073.22,21700.44
+479,HarperCollins Dolore Boo479,Books,HarperCollins,2697.94,3966.8
+480,Scholastic Libero Boo480,Books,Scholastic,4059.8,7250.29
+481,Levis Minima Fas481,Fashion,Levis,4005.08,5874.87
+482,Tata Illum Gro482,Groceries,Tata,9134.82,14301.48
+483,Decathlon Animi Spo483,Sports,Decathlon,3269.46,4674.37
+484,H&M Ea Fas484,Fashion,H&M,6903.89,11923.28
+485,Decathlon Necessitatibus Spo485,Sports,Decathlon,1062.61,1853.11
+486,Lakme Eum Bea486,Beauty,Lakme,20833.2,27987.76
+487,Dell Veniam Ele487,Electronics,Dell,19742.8,23104.78
+488,Levis Maxime Fas488,Fashion,Levis,24173.3,36073.49
+489,IKEA Laboriosam Hom489,Home & Kitchen,IKEA,7616.86,10554.52
+490,Tata Quisquam Gro490,Groceries,Tata,1706.81,3060.44
+491,Tata Vero Gro491,Groceries,Tata,1030.33,-1623.48
+492,Amul Ea Gro492,Groceries,Amul,11096.26,19604.82
+493,Scholastic Impedit Boo493,Books,Scholastic,6187.69,9255.9
+494,Decathlon Earum Spo494,Sports,Decathlon,12084.79,19418.6
+495,Puma Adipisci Fas495,Fashion,Puma,1746.86,2228.93
+496,Nivea Velit Bea496,Beauty,Nivea,5403.39,8806.43
+497,Tata Blanditiis Gro497,Groceries,Tata,4769.01,7262.1
+498,Allen Solly Optio Fas498,Fashion,Allen Solly,5420.33,9269.07
+499,Samsung Minus Ele499,Electronics,Samsung,23557.53,35030.53
+500,Philips Inventore Hom500,Home & Kitchen,Philips,8840.11,11511.04
+501,Mamaearth Neque Bea501,Beauty,Mamaearth,1292.04,1711.34
+502,Decathlon Hic Spo502,Sports,Decathlon,16373.18,24508.21
+503,Decathlon Illum Spo503,Sports,Decathlon,23603.83,33224.28
+504,Mamaearth Quam Bea504,Beauty,Mamaearth,17361.89,25488.29
+505,Amul Repellat Gro505,Groceries,Amul,12838.78,16999.23
+506,Zara Quia Fas506,Fashion,Zara,11401.02,16600.0
+507,Prestige Quae Hom507,Home & Kitchen,Prestige,17680.73,31143.12
+508,Penguin Adipisci Boo508,Books,Penguin,8266.57,9733.31
+509,Samsung Et Ele509,Electronics,Samsung,12432.56,18697.33
+510,Nivea Corrupti Bea510,Beauty,Nivea,4252.59,6992.54
+511,Nivea Maxime Bea511,Beauty,Nivea,24623.98,43455.26
+512,Philips Excepturi Hom512,Home & Kitchen,Philips,4967.8,8539.58
+513,Lakme Quos Bea513,Beauty,Lakme,17627.12,25471.19
+514,Yonex Voluptatem Spo514,Sports,Yonex,13538.24,23045.34
+515,Prestige Provident Hom515,Home & Kitchen,Prestige,12029.37,16751.92
+516,Puma Quas Fas516,Fashion,Puma,12356.52,18861.42
+517,Nike Dolorum Spo517,Sports,Nike,4767.49,8274.41
+518,Nivea Harum Bea518,Beauty,Nivea,16870.96,26346.11
+519,LOreal Iure Bea519,Beauty,LOreal,2532.43,3906.81
+520,Tata Deleniti Gro520,Groceries,Tata,3067.97,3685.1
+521,Lakme Omnis Bea521,Beauty,Lakme,13206.41,18644.95
+522,H&M Similique Fas522,Fashion,H&M,14740.82,17806.83
+523,Nestle Voluptatem Gro523,Groceries,Nestle,10803.03,13650.83
+524,Nike Assumenda Spo524,Sports,Nike,24678.15,37381.17
+525,Milton Veniam Hom525,Home & Kitchen,Milton,17201.55,23420.29
+526,Philips Voluptas Hom526,Home & Kitchen,Philips,2413.74,4306.88
+527,Tata Laboriosam Gro527,Groceries,Tata,7192.16,10252.25
+528,Levis Amet Fas528,Fashion,Levis,16264.1,18964.81
+529,Samsung Illum Ele529,Electronics,Samsung,20265.97,30374.15
+530,Apple Vitae Ele530,Electronics,Apple,6991.52,8320.22
+531,Dell Tempore Ele531,Electronics,Dell,4104.34,7107.78
+532,IKEA Aspernatur Hom532,Home & Kitchen,IKEA,17166.3,22529.67
+533,LOreal Illum Bea533,Beauty,LOreal,1686.74,2696.93
+534,IKEA Excepturi Hom534,Home & Kitchen,IKEA,14331.57,-20249.62
+535,Nestle Enim Gro535,Groceries,Nestle,9122.11,11776.0
+536,Nike Esse Spo536,Sports,Nike,16756.8,29842.76
+537,IKEA Eos Hom537,Home & Kitchen,IKEA,4434.1,6820.2
+538,Decathlon Libero Spo538,Sports,Decathlon,10633.42,15315.82
+539,Milton Earum Hom539,Home & Kitchen,Milton,6390.97,10777.33
+540,Lakme Qui Bea540,Beauty,Lakme,12157.13,18274.77
+541,Levis Facere Fas541,Fashion,Levis,7653.78,9706.34
+542,Nivea Repudiandae Bea542,Beauty,Nivea,2193.46,3540.63
+543,Levis Ipsam Fas543,Fashion,Levis,4946.05,7906.5
+544,LOreal Voluptatum Bea544,Beauty,LOreal,9789.89,13904.13
+545,Apple Cupiditate Ele545,Electronics,Apple,11755.98,16329.18
+546,Dell Nam Ele546,Electronics,Dell,2560.47,3459.86
+547,Apple Est Ele547,Electronics,Apple,16610.17,26289.91
+548,Tata Dicta Gro548,Groceries,Tata,7191.3,10420.67
+549,Samsung Corporis Ele549,Electronics,Samsung,4876.51,6274.81
+550,OnePlus Consectetur Ele550,Electronics,OnePlus,625.02,1083.09
+551,Adidas Consequatur Spo551,Sports,Adidas,5307.13,6888.11
+552,OnePlus Sapiente Ele552,Electronics,OnePlus,7026.06,8661.83
+553,Mamaearth Odit Bea553,Beauty,Mamaearth,15999.61,19181.02
+554,Tata Qui Gro554,Groceries,Tata,3398.35,5332.32
+555,Lakme Omnis Bea555,Beauty,Lakme,8524.53,13725.91
+556,Nivea Cupiditate Bea556,Beauty,Nivea,13957.75,18374.17
+557,Nike Quisquam Spo557,Sports,Nike,16288.16,19962.41
+558,Nike Architecto Spo558,Sports,Nike,13433.44,19265.52
+559,Nestle Sequi Gro559,Groceries,Nestle,6733.45,10387.04
+560,Nivea Eius Bea560,Beauty,Nivea,21789.77,39206.07
+561,Puma Excepturi Fas561,Fashion,Puma,15213.68,21497.82
+562,Apple Rerum Ele562,Electronics,Apple,5668.92,7466.61
+563,Prestige Consectetur Hom563,Home & Kitchen,Prestige,12012.4,16681.99
+564,Nivea Suscipit Bea564,Beauty,Nivea,22849.67,31747.15
+565,Puma Veritatis Fas565,Fashion,Puma,9367.44,13107.83
+566,OnePlus Eius Ele566,Electronics,OnePlus,20923.67,32913.19
+567,Nivea Possimus Bea567,Beauty,Nivea,15373.51,21018.55
+568,Zara Esse Fas568,Fashion,Zara,20456.71,24035.34
+569,Lakme Deleniti Bea569,Beauty,Lakme,21776.39,32300.65
+570,Prestige Necessitatibus Hom570,Home & Kitchen,Prestige,9986.34,14711.46
+571,Sony Temporibus Ele571,Electronics,Sony,16702.02,19345.91
+572,Milton Iste Hom572,Home & Kitchen,Milton,21795.22,31393.41
+573,Mamaearth Et Bea573,Beauty,Mamaearth,8607.01,10671.48
+574,Allen Solly Animi Fas574,Fashion,Allen Solly,11014.66,16220.3
+575,Zara Nemo Fas575,Fashion,Zara,10120.99,16103.8
+576,Penguin Aliquid Boo576,Books,Penguin,10551.37,18727.85
+577,Apple Autem Ele577,Electronics,Apple,15001.97,25126.21
+578,Yonex Blanditiis Spo578,Sports,Yonex,2778.43,3912.69
+579,Levis Similique Fas579,Fashion,Levis,8454.35,12851.99
+580,Decathlon Quae Spo580,Sports,Decathlon,21534.78,25861.54
+581,LOreal Praesentium Bea581,Beauty,LOreal,1860.74,3168.29
+582,HarperCollins Itaque Boo582,Books,HarperCollins,5360.61,8494.9
+583,Decathlon Molestias Spo583,Sports,Decathlon,13594.81,22994.0
+584,Nivea Consequatur Bea584,Beauty,Nivea,3170.97,3914.12
+585,Zara Officiis Fas585,Fashion,Zara,13942.62,24610.76
+586,Nike Provident Spo586,Sports,Nike,10404.19,14175.84
+587,Philips Nemo Hom587,Home & Kitchen,Philips,15186.9,26649.84
+588,Penguin Quod Boo588,Books,Penguin,20931.35,37614.98
+589,Yonex Qui Spo589,Sports,Yonex,613.09,750.03
+590,Allen Solly Accusamus Fas590,Fashion,Allen Solly,15256.22,25681.93
+591,IKEA Accusamus Hom591,Home & Kitchen,IKEA,7166.85,9356.23
+592,LOreal Ea Bea592,Beauty,LOreal,19685.05,23359.23
+593,Amul Eos Gro593,Groceries,Amul,9266.1,13702.49
+594,Sony Alias Ele594,Electronics,Sony,14030.7,22780.24
+595,Nike Aliquam Spo595,Sports,Nike,8903.4,13784.64
+596,Adidas Repudiandae Spo596,Sports,Adidas,14655.12,22069.88
+597,Amul Corrupti Gro597,Groceries,Amul,16030.06,21137.91
+598,HarperCollins Iusto Boo598,Books,HarperCollins,2161.99,2653.9
+599,Apple Nesciunt Ele599,Electronics,Apple,5653.33,8339.39
+600,Sony Culpa Ele600,Electronics,Sony,21019.05,33753.25
+601,LOreal Quo Bea601,Beauty,LOreal,19736.56,27199.63
+602,Nivea Debitis Bea602,Beauty,Nivea,10146.11,14264.35
+603,Milton Saepe Hom603,Home & Kitchen,Milton,4837.24,5755.3
+604,Scholastic Qui Boo604,Books,Scholastic,14793.36,26524.36
+605,Apple Accusantium Ele605,Electronics,Apple,4212.4,4972.09
+606,Tata Exercitationem Gro606,Groceries,Tata,19499.32,25625.63
+607,OnePlus Voluptas Ele607,Electronics,OnePlus,20749.61,33356.22
+608,Yonex Minus Spo608,Sports,Yonex,23644.55,33476.02
+609,HarperCollins Iusto Boo609,Books,HarperCollins,16566.15,24056.63
+610,Sony Optio Ele610,Electronics,Sony,15783.19,22763.14
+611,Apple Tempore Ele611,Electronics,Apple,4756.37,7040.06
+612,Scholastic Voluptates Boo612,Books,Scholastic,13238.18,22199.0
+613,Philips Praesentium Hom613,Home & Kitchen,Philips,18401.24,29100.91
+614,Nike Fuga Spo614,Sports,Nike,2879.01,4659.39
+615,Nestle Id Gro615,Groceries,Nestle,12532.61,21696.01
+616,Nike Saepe Spo616,Sports,Nike,23000.78,27275.52
+617,Philips Cumque Hom617,Home & Kitchen,Philips,20525.01,24106.69
+618,Scholastic Nesciunt Boo618,Books,Scholastic,9210.88,13839.3
+619,Sony A Ele619,Electronics,Sony,3745.11,6123.64
+620,Amul Sit Gro620,Groceries,Amul,258.45,325.54
+621,Sony Vero Ele621,Electronics,Sony,14540.88,23474.1
+622,Nike Error Spo622,Sports,Nike,22920.25,-36868.89
+623,Nestle Mollitia Gro623,Groceries,Nestle,16810.89,23641.52
+624,Scholastic Maxime Boo624,Books,Scholastic,82.05,100.77
+625,ITC Similique Gro625,Groceries,ITC,13387.14,21269.95
+626,LOreal Laborum Bea626,Beauty,LOreal,10465.33,17005.55
+627,Penguin Deleniti Boo627,Books,Penguin,13070.46,15661.22
+628,Penguin Aspernatur Boo628,Books,Penguin,4840.81,8210.01
+629,Allen Solly Autem Fas629,Fashion,Allen Solly,18136.57,31405.2
+630,Yonex Ipsa Spo630,Sports,Yonex,2983.05,5350.53
+631,Penguin Sed Boo631,Books,Penguin,5274.7,6106.29
+632,ITC Aut Gro632,Groceries,ITC,24935.7,33231.76
+633,Mamaearth Cupiditate Bea633,Beauty,Mamaearth,16717.09,21144.5
+634,OnePlus Qui Ele634,Electronics,OnePlus,14526.7,25241.92
+635,Nivea Tempore Bea635,Beauty,Nivea,8038.52,12746.4
+636,H&M Repellat Fas636,Fashion,H&M,4738.19,7373.18
+637,Mamaearth Illo Bea637,Beauty,Mamaearth,8444.44,10870.4
+638,OnePlus Corrupti Ele638,Electronics,OnePlus,7863.89,9957.62
+639,Mamaearth Quis Bea639,Beauty,Mamaearth,22552.81,31758.22
+640,H&M Illum Fas640,Fashion,H&M,6169.72,8893.44
+641,Amul Et Gro641,Groceries,Amul,8047.38,13148.39
+642,Nestle Eveniet Gro642,Groceries,Nestle,24281.94,34837.83
+643,Lakme Nam Bea643,Beauty,Lakme,21532.78,32682.69
+644,Puma Quia Fas644,Fashion,Puma,3973.03,6352.5
+645,Scholastic Perferendis Boo645,Books,Scholastic,12860.19,20227.72
+646,Decathlon Laboriosam Spo646,Sports,Decathlon,22247.7,31953.98
+647,Nike Alias Spo647,Sports,Nike,22534.38,36909.85
+648,Yonex Repudiandae Spo648,Sports,Yonex,12240.69,18876.3
+649,Tata Deserunt Gro649,Groceries,Tata,8173.25,14624.71
+650,Sony Nemo Ele650,Electronics,Sony,16700.41,19681.44
+651,Allen Solly Earum Fas651,Fashion,Allen Solly,8199.22,12751.05
+652,Amul Dolores Gro652,Groceries,Amul,1455.52,1696.44
+653,Samsung Dolore Ele653,Electronics,Samsung,11278.1,15408.69
+654,Nivea Esse Bea654,Beauty,Nivea,10985.55,14509.17
+655,Yonex Sequi Spo655,Sports,Yonex,4159.71,6646.98
+656,Amul Sed Gro656,Groceries,Amul,12888.55,16498.64
+657,Apple Quae Ele657,Electronics,Apple,8023.76,12313.87
+658,Nivea Dignissimos Bea658,Beauty,Nivea,1852.12,2307.45
+659,Amul Aut Gro659,Groceries,Amul,1877.48,3150.42
+660,Scholastic Excepturi Boo660,Books,Scholastic,18822.61,30862.56
+661,Penguin Odio Boo661,Books,Penguin,17922.32,28408.68
+662,Scholastic Harum Boo662,Books,Scholastic,11950.95,18732.88
+663,HarperCollins Iusto Boo663,Books,HarperCollins,1007.12,1565.02
+664,Dell Labore Ele664,Electronics,Dell,19458.05,28705.16
+665,Tata Nihil Gro665,Groceries,Tata,8969.96,11932.98
+666,Levis Autem Fas666,Fashion,Levis,16087.91,25745.82
+667,Scholastic Consectetur Boo667,Books,Scholastic,21780.64,29894.3
+668,ITC Facere Gro668,Groceries,ITC,19255.82,-29170.28
+669,Zara Amet Fas669,Fashion,Zara,22076.77,32962.34
+670,OnePlus Voluptatem Ele670,Electronics,OnePlus,12964.86,19779.45
+671,Dell Impedit Ele671,Electronics,Dell,18745.42,33311.53
+672,Decathlon Delectus Spo672,Sports,Decathlon,1885.41,2233.71
+673,Scholastic Quasi Boo673,Books,Scholastic,23441.88,35031.99
+674,Apple Quidem Ele674,Electronics,Apple,15391.83,22527.1
+675,Yonex Nemo Spo675,Sports,Yonex,2386.75,3936.37
+676,Milton Animi Hom676,Home & Kitchen,Milton,18693.25,25284.62
+677,Adidas Maiores Spo677,Sports,Adidas,7690.67,13032.59
+678,Zara Suscipit Fas678,Fashion,Zara,1855.31,3196.18
+679,Mamaearth Adipisci Bea679,Beauty,Mamaearth,6453.71,9909.29
+680,Adidas Labore Spo680,Sports,Adidas,23403.05,37229.1
+681,Yonex Ex Spo681,Sports,Yonex,10390.02,16605.3
+682,Decathlon Possimus Spo682,Sports,Decathlon,8632.29,11482.83
+683,Nivea Nam Bea683,Beauty,Nivea,24917.25,40814.8
+684,Adidas Nobis Spo684,Sports,Adidas,16135.76,22282.49
+685,Apple Nostrum Ele685,Electronics,Apple,1276.56,1493.81
+686,Prestige Aperiam Hom686,Home & Kitchen,Prestige,13876.82,22831.83
+687,LOreal Quas Bea687,Beauty,LOreal,13457.61,22830.97
+688,IKEA Voluptate Hom688,Home & Kitchen,IKEA,883.99,1227.32
+689,Penguin Consequatur Boo689,Books,Penguin,5964.91,8593.81
+690,Amul Cum Gro690,Groceries,Amul,1855.79,3285.09
+691,Amul Debitis Gro691,Groceries,Amul,5620.22,9832.58
+692,Nivea Nobis Bea692,Beauty,Nivea,10676.03,19116.4
+693,IKEA Ad Hom693,Home & Kitchen,IKEA,13873.76,24349.02
+694,Apple Animi Ele694,Electronics,Apple,183.46,300.21
+695,Puma Earum Fas695,Fashion,Puma,22581.11,28019.06
+696,Mamaearth Aspernatur Bea696,Beauty,Mamaearth,2448.34,3491.26
+697,Amul Quasi Gro697,Groceries,Amul,23345.29,-35077.5
+698,Yonex Enim Spo698,Sports,Yonex,13210.04,16403.33
+699,Adidas Magni Spo699,Sports,Adidas,69.7,116.86
+700,LOreal Molestias Bea700,Beauty,LOreal,2234.99,3491.06
+701,Yonex Nam Spo701,Sports,Yonex,22869.68,29401.8
+702,Scholastic Sequi Boo702,Books,Scholastic,16648.56,19997.49
+703,Sony Commodi Ele703,Electronics,Sony,15113.69,18991.19
+704,Dell Alias Ele704,Electronics,Dell,18412.04,24778.93
+705,Philips Molestiae Hom705,Home & Kitchen,Philips,11611.61,17877.58
+706,Penguin Dolor Boo706,Books,Penguin,4323.27,7055.86
+707,Prestige Vitae Hom707,Home & Kitchen,Prestige,7600.88,12013.51
+708,ITC Odit Gro708,Groceries,ITC,3999.16,6387.76
+709,Sony Aut Ele709,Electronics,Sony,3248.29,4633.63
+710,Nivea Iste Bea710,Beauty,Nivea,6217.79,10175.06
+711,Lakme Error Bea711,Beauty,Lakme,6587.77,11351.49
+712,Allen Solly Consequuntur Fas712,Fashion,Allen Solly,22300.91,28493.58
+713,Philips Doloribus Hom713,Home & Kitchen,Philips,15365.46,18546.36
+714,IKEA Esse Hom714,Home & Kitchen,IKEA,9818.85,15844.28
+715,Prestige Facere Hom715,Home & Kitchen,Prestige,16502.61,25678.98
+716,ITC Laboriosam Gro716,Groceries,ITC,7099.39,9908.73
+717,Yonex Magnam Spo717,Sports,Yonex,2618.51,4235.09
+718,Levis Asperiores Fas718,Fashion,Levis,12622.03,20330.27
+719,Penguin Non Boo719,Books,Penguin,6261.14,8520.69
+720,Yonex Quaerat Spo720,Sports,Yonex,8388.67,9787.33
+721,Scholastic Quo Boo721,Books,Scholastic,8559.14,14312.15
+722,IKEA Ducimus Hom722,Home & Kitchen,IKEA,22437.6,33361.16
+723,Lakme Nostrum Bea723,Beauty,Lakme,11414.77,13355.69
+724,HarperCollins Rem Boo724,Books,HarperCollins,21986.15,25470.0
+725,Yonex Corrupti Spo725,Sports,Yonex,23621.51,34676.15
+726,Sony Placeat Ele726,Electronics,Sony,8581.27,15023.59
+727,Mamaearth Sunt Bea727,Beauty,Mamaearth,658.56,1006.23
+728,Zara Placeat Fas728,Fashion,Zara,13745.87,17767.34
+729,Nivea Nisi Bea729,Beauty,Nivea,10750.74,16921.36
+730,Puma Ratione Fas730,Fashion,Puma,18191.92,20929.18
+731,Prestige Temporibus Hom731,Home & Kitchen,Prestige,23424.49,29443.21
+732,Lakme Dicta Bea732,Beauty,Lakme,5877.83,7766.13
+733,Levis Soluta Fas733,Fashion,Levis,993.61,1222.12
+734,Adidas Eos Spo734,Sports,Adidas,24659.43,33410.84
+735,ITC Qui Gro735,Groceries,ITC,2926.76,3569.31
+736,Philips Fuga Hom736,Home & Kitchen,Philips,18000.53,30699.36
+737,Dell Illum Ele737,Electronics,Dell,6460.96,7517.92
+738,Adidas Animi Spo738,Sports,Adidas,5616.1,6664.82
+739,IKEA Cum Hom739,Home & Kitchen,IKEA,2629.7,3761.73
+740,Adidas Excepturi Spo740,Sports,Adidas,5786.46,8595.0
+741,Nike Incidunt Spo741,Sports,Nike,6374.67,11228.02
+742,Lakme Quod Bea742,Beauty,Lakme,22653.3,34397.31
+743,IKEA Ab Hom743,Home & Kitchen,IKEA,8892.88,12429.98
+744,Lakme Quia Bea744,Beauty,Lakme,10325.71,16757.87
+745,ITC Occaecati Gro745,Groceries,ITC,11318.39,19319.07
+746,Nike Earum Spo746,Sports,Nike,23605.16,32300.47
+747,Nivea Laboriosam Bea747,Beauty,Nivea,14039.33,17012.67
+748,Nike In Spo748,Sports,Nike,5051.7,7167.11
+749,Sony Ex Ele749,Electronics,Sony,5194.76,8933.76
+750,Samsung Perferendis Ele750,Electronics,Samsung,3999.24,5783.62
+751,Tata Vel Gro751,Groceries,Tata,15162.2,24255.15
+752,Adidas Quo Spo752,Sports,Adidas,9607.58,16476.18
+753,Philips Quia Hom753,Home & Kitchen,Philips,14229.56,20429.1
+754,Amul Deleniti Gro754,Groceries,Amul,1727.65,2508.63
+755,HarperCollins Nemo Boo755,Books,HarperCollins,20527.36,31806.15
+756,Samsung Aperiam Ele756,Electronics,Samsung,20812.45,30617.35
+757,Allen Solly Error Fas757,Fashion,Allen Solly,3005.62,3483.11
+758,HarperCollins Eveniet Boo758,Books,HarperCollins,7615.33,12212.66
+759,Sony Tenetur Ele759,Electronics,Sony,19766.98,26532.02
+760,H&M Minima Fas760,Fashion,H&M,12416.57,17677.81
+761,Sony Sint Ele761,Electronics,Sony,10292.54,13384.18
+762,Prestige Cupiditate Hom762,Home & Kitchen,Prestige,3452.46,4411.72
+763,Mamaearth Asperiores Bea763,Beauty,Mamaearth,1430.54,1829.35
+764,Tata Corporis Gro764,Groceries,Tata,279.56,435.48
+765,Levis Vel Fas765,Fashion,Levis,7943.57,14159.76
+766,Milton Maxime Hom766,Home & Kitchen,Milton,4883.24,6713.42
+767,Lakme Odio Bea767,Beauty,Lakme,8978.14,10374.18
+768,Prestige Voluptas Hom768,Home & Kitchen,Prestige,20988.24,24572.96
+769,Nike Voluptate Spo769,Sports,Nike,23507.49,40664.39
+770,Mamaearth Ad Bea770,Beauty,Mamaearth,13411.27,20161.66
+771,Penguin Sequi Boo771,Books,Penguin,16361.76,22932.36
+772,Amul Architecto Gro772,Groceries,Amul,16198.2,19099.29
+773,HarperCollins Quae Boo773,Books,HarperCollins,1398.49,2023.89
+774,Prestige Maxime Hom774,Home & Kitchen,Prestige,13763.08,23769.96
+775,ITC Recusandae Gro775,Groceries,ITC,2661.28,4483.51
+776,Nivea Repellendus Bea776,Beauty,Nivea,5290.68,7439.51
+777,LOreal Voluptatum Bea777,Beauty,LOreal,7949.23,11209.22
+778,Penguin At Boo778,Books,Penguin,3804.86,5621.0
+779,Amul Illum Gro779,Groceries,Amul,20050.98,28813.2
+780,HarperCollins Illo Boo780,Books,HarperCollins,12290.81,20915.26
+781,Nike Rem Spo781,Sports,Nike,17666.15,25947.96
+782,Nike Ducimus Spo782,Sports,Nike,6479.51,11178.47
+783,ITC Ad Gro783,Groceries,ITC,14446.66,18690.31
+784,Lakme Odio Bea784,Beauty,Lakme,6764.54,11310.56
+785,Sony Facere Ele785,Electronics,Sony,1151.43,2066.66
+786,OnePlus Reprehenderit Ele786,Electronics,OnePlus,3302.27,5506.35
+787,IKEA Doloremque Hom787,Home & Kitchen,IKEA,9899.64,14551.88
+788,Nike Necessitatibus Spo788,Sports,Nike,22022.23,31236.16
+789,Amul Sapiente Gro789,Groceries,Amul,13460.47,15910.88
+790,Nestle Voluptatibus Gro790,Groceries,Nestle,108.57,142.13
+791,Adidas Rem Spo791,Sports,Adidas,17030.55,20927.52
+792,LOreal Soluta Bea792,Beauty,LOreal,2888.36,4093.17
+793,IKEA Sunt Hom793,Home & Kitchen,IKEA,16213.53,26149.94
+794,Adidas Nihil Spo794,Sports,Adidas,4502.34,5410.61
+795,Scholastic Soluta Boo795,Books,Scholastic,23512.91,31023.71
+796,LOreal Rem Bea796,Beauty,LOreal,21341.0,36520.2
+797,IKEA Minus Hom797,Home & Kitchen,IKEA,19324.44,24343.81
+798,Decathlon Unde Spo798,Sports,Decathlon,20553.95,33914.28
+799,Penguin Impedit Boo799,Books,Penguin,14938.24,20453.16
+800,Milton Quod Hom800,Home & Kitchen,Milton,6599.59,8112.4
